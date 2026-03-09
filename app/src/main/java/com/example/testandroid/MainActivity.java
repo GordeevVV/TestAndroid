@@ -13,7 +13,6 @@ import androidx.appcompat.app.AppCompatActivity;
 
 public class MainActivity extends AppCompatActivity {
     private Button[] buttons = new Button[9];
-    private boolean playerXTurn = true;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -82,7 +81,6 @@ public class MainActivity extends AppCompatActivity {
             button.setEnabled(true);
         }
         ((TextView)findViewById(R.id.textView3)).setText("X its your turn");
-        playerXTurn = true;
     }
 
     public void onClickTransport(View view){
