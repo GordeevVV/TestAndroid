@@ -1,15 +1,51 @@
+# Gradle files
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Android Studio files
+.local.properties
 *.iml
-.gradle
-/local.properties
-/.idea/caches
-/.idea/libraries
-/.idea/modules.xml
-/.idea/workspace.xml
-/.idea/navEditor.xml
-/.idea/assetWizardSettings.xml
+.localProperties
+.cxx/
+.captures/
+.externalNativeBuild/
+
+# IntelliJ IDEA files
+.idea/
+*.iws
+*.swp
+*~
 .DS_Store
-/build
-/captures
-.externalNativeBuild
-.cxx
-local.properties
+
+# Keystore files (NEVER commit these!)
+**/keystore.jks
+**/keystore.keystore
+**/*.jks
+**/*.keystore
+
+# APK and Bundles
+*.apk
+*.aab
+*.ap_
+
+# Built application files (generated)
+app/release/
+app/debug/
+
+# Environment variables
+.env
+config.properties
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log
+logs/
