@@ -27,7 +27,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="128dp"
         android:layout_marginTop="224dp"
-        android:text="PressMe 5"
+        android:text="PressMe"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
@@ -37,7 +37,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="248dp"
         android:layout_marginTop="176dp"
-        android:text="PressMe 3"
+        android:text="PressMe"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
@@ -47,7 +47,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="248dp"
         android:layout_marginTop="224dp"
-        android:text="PressMe 6"
+        android:text="PressMe"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
@@ -57,7 +57,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="8dp"
         android:layout_marginTop="224dp"
-        android:text="PressMe 4"
+        android:text="PressMe"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
@@ -67,7 +67,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="248dp"
         android:layout_marginTop="272dp"
-        android:text="PressMe 9"
+        android:text="PressMe"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
@@ -77,7 +77,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="8dp"
         android:layout_marginTop="272dp"
-        android:text="PressMe 7"
+        android:text="PressMe"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
@@ -87,7 +87,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="8dp"
         android:layout_marginTop="176dp"
-        android:text="PressMe 1"
+        android:text="PressMe"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
@@ -107,7 +107,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="128dp"
         android:layout_marginTop="176dp"
-        android:text="PressMe 2"
+        android:text="PressMe"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
@@ -117,7 +117,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="128dp"
         android:layout_marginTop="272dp"
-        android:text="PressMe 8"
+        android:text="PressMe"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 

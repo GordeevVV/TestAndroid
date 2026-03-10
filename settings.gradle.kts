@@ -24,4 +24,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "TestAndroid"
 include(":app")
- 
+include(":myapplication")
+include(":tabberion")
